@@ -8,23 +8,23 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\d4v1d\\.nuget\\packages\\": {},
-    "C:\\DLC for Visual Studio\\NuGetPackages": {}
+    "C:\\Users\\BOSS\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\d4v1d\\Desktop\\проги\\Ex9\\Ex9.csproj",
+      "projectUniqueName": "C:\\Users\\BOSS\\Desktop\\OOA-D\\Ex9.csproj",
       "projectName": "Ex9",
-      "projectPath": "C:\\Users\\d4v1d\\Desktop\\проги\\Ex9\\Ex9.csproj",
-      "packagesPath": "C:\\Users\\d4v1d\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\d4v1d\\Desktop\\проги\\Ex9\\obj\\",
+      "projectPath": "C:\\Users\\BOSS\\Desktop\\OOA-D\\Ex9.csproj",
+      "packagesPath": "C:\\Users\\BOSS\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\BOSS\\Desktop\\OOA-D\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\DLC for Visual Studio\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\d4v1d\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\BOSS\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -72,7 +72,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

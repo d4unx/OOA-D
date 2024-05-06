@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BOSS\\Desktop\\OOA-D\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87943E93-FC28-4601-835E-D191AD12ED86}|..\\TestProject1\\TestProject1.csproj|c:\\users\\boss\\desktop\\testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE84581-C476-46BE-B22A-0555C650ED9A}|Ex9.csproj|c:\\users\\boss\\desktop\\ooa-d\\iexpression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EE84581-C476-46BE-B22A-0555C650ED9A}|Ex9.csproj|solutionrelative:iexpression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE84581-C476-46BE-B22A-0555C650ED9A}|Ex9.csproj|c:\\users\\boss\\desktop\\ooa-d\\valuenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EE84581-C476-46BE-B22A-0555C650ED9A}|Ex9.csproj|solutionrelative:valuenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE84581-C476-46BE-B22A-0555C650ED9A}|Ex9.csproj|c:\\users\\boss\\desktop\\ooa-d\\andnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EE84581-C476-46BE-B22A-0555C650ED9A}|Ex9.csproj|solutionrelative:andnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE84581-C476-46BE-B22A-0555C650ED9A}|Ex9.csproj|c:\\users\\boss\\desktop\\ooa-d\\ornode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EE84581-C476-46BE-B22A-0555C650ED9A}|Ex9.csproj|solutionrelative:ornode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE84581-C476-46BE-B22A-0555C650ED9A}|Ex9.csproj|c:\\users\\boss\\desktop\\ooa-d\\notnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EE84581-C476-46BE-B22A-0555C650ED9A}|Ex9.csproj|solutionrelative:notnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE84581-C476-46BE-B22A-0555C650ED9A}|Ex9.csproj|c:\\users\\boss\\desktop\\ooa-d\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EE84581-C476-46BE-B22A-0555C650ED9A}|Ex9.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BOSS\\Desktop\\OOA-D\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\BOSS\\Desktop\\OOA-D\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T23:13:23.281Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NotNode.cs",
+              "DocumentMoniker": "C:\\Users\\BOSS\\Desktop\\OOA-D\\NotNode.cs",
+              "RelativeDocumentMoniker": "NotNode.cs",
+              "ToolTip": "C:\\Users\\BOSS\\Desktop\\OOA-D\\NotNode.cs",
+              "RelativeToolTip": "NotNode.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T23:17:49.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrNode.cs",
+              "DocumentMoniker": "C:\\Users\\BOSS\\Desktop\\OOA-D\\OrNode.cs",
+              "RelativeDocumentMoniker": "OrNode.cs",
+              "ToolTip": "C:\\Users\\BOSS\\Desktop\\OOA-D\\OrNode.cs",
+              "RelativeToolTip": "OrNode.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T23:17:28.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AndNode.cs",
+              "DocumentMoniker": "C:\\Users\\BOSS\\Desktop\\OOA-D\\AndNode.cs",
+              "RelativeDocumentMoniker": "AndNode.cs",
+              "ToolTip": "C:\\Users\\BOSS\\Desktop\\OOA-D\\AndNode.cs",
+              "RelativeToolTip": "AndNode.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T23:16:57.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ValueNode.cs",
+              "DocumentMoniker": "C:\\Users\\BOSS\\Desktop\\OOA-D\\ValueNode.cs",
+              "RelativeDocumentMoniker": "ValueNode.cs",
+              "ToolTip": "C:\\Users\\BOSS\\Desktop\\OOA-D\\ValueNode.cs",
+              "RelativeToolTip": "ValueNode.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T23:15:23.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IExpression.cs",
+              "DocumentMoniker": "C:\\Users\\BOSS\\Desktop\\OOA-D\\IExpression.cs",
+              "RelativeDocumentMoniker": "IExpression.cs",
+              "ToolTip": "C:\\Users\\BOSS\\Desktop\\OOA-D\\IExpression.cs",
+              "RelativeToolTip": "IExpression.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T23:14:13.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\BOSS\\Desktop\\TestProject1\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\TestProject1\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\BOSS\\Desktop\\TestProject1\\UnitTest1.cs",
+              "RelativeToolTip": "..\\TestProject1\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAI0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T23:25:55.986Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 112,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
