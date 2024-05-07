@@ -16,5 +16,11 @@
         {
             return _left.Evaluate() || _right.Evaluate();
         }
+        public void PrintTree(int indent = 0)
+        {
+            Console.WriteLine($"{new string(' ', indent)}OrNode");
+            _left.PrintTree(indent + 2);
+            _right.PrintTree(indent + 2);
+        }
     }
 }

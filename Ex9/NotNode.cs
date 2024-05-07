@@ -13,5 +13,10 @@
         {
             return !_child.Evaluate();
         }
+        public void PrintTree(int indent = 0)
+        {
+            Console.WriteLine($"{new string(' ', indent)}NotNode");
+            _child.PrintTree(indent + 2);
+        }
     }
 }

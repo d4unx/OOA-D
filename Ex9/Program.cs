@@ -10,8 +10,8 @@
                 new ValueNode(true)
             ); 
 
-            bool result = exp.Evaluate();
-            Console.WriteLine(result); // True
+            exp.PrintTree();
+            //Console.WriteLine(result); // True
         }
     }
 }

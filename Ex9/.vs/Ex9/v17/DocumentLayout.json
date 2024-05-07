@@ -3,18 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\BOSS\\Desktop\\OOA-D\\Ex9\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6C81ECC2-ECDB-4F2C-A3BA-856E2C00041C}|TestProject1\\TestProject1.csproj|c:\\users\\boss\\desktop\\ooa-d\\ex9\\testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C81ECC2-ECDB-4F2C-A3BA-856E2C00041C}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5EE84581-C476-46BE-B22A-0555C650ED9A}|Ex9.csproj|c:\\users\\boss\\desktop\\ooa-d\\ex9\\obj\\debug\\net8.0\\ex9.assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5EE84581-C476-46BE-B22A-0555C650ED9A}|Ex9.csproj|solutionrelative:obj\\debug\\net8.0\\ex9.assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5EE84581-C476-46BE-B22A-0555C650ED9A}|Ex9.csproj|C:\\Users\\BOSS\\Desktop\\OOA-D\\Ex9\\notnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5EE84581-C476-46BE-B22A-0555C650ED9A}|Ex9.csproj|solutionrelative:notnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5EE84581-C476-46BE-B22A-0555C650ED9A}|Ex9.csproj|C:\\Users\\BOSS\\Desktop\\OOA-D\\Ex9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5EE84581-C476-46BE-B22A-0555C650ED9A}|Ex9.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -31,8 +19,15 @@
       "RelativeMoniker": "D:0:0:{5EE84581-C476-46BE-B22A-0555C650ED9A}|Ex9.csproj|solutionrelative:andnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EE84581-C476-46BE-B22A-0555C650ED9A}|Ex9.csproj|C:\\Users\\BOSS\\Desktop\\OOA-D\\Ex9\\ornode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5EE84581-C476-46BE-B22A-0555C650ED9A}|Ex9.csproj|c:\\users\\boss\\desktop\\ooa-d\\ex9\\ornode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5EE84581-C476-46BE-B22A-0555C650ED9A}|Ex9.csproj|solutionrelative:ornode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE84581-C476-46BE-B22A-0555C650ED9A}|Ex9.csproj|C:\\Users\\BOSS\\Desktop\\OOA-D\\Ex9\\notnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EE84581-C476-46BE-B22A-0555C650ED9A}|Ex9.csproj|solutionrelative:notnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B03E56C-8286-4452-BEE5-9D0348A6DCB1}|..\\TestProject2\\TestProject2.csproj|c:\\users\\boss\\desktop\\ooa-d\\testproject2\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,46 +37,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\BOSS\\Desktop\\OOA-D\\Ex9\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\BOSS\\Desktop\\OOA-D\\Ex9\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-06T23:13:23.281Z",
               "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Ex9.AssemblyInfo.cs",
-              "DocumentMoniker": "C:\\Users\\BOSS\\Desktop\\OOA-D\\Ex9\\obj\\Debug\\net8.0\\Ex9.AssemblyInfo.cs",
-              "RelativeDocumentMoniker": "obj\\Debug\\net8.0\\Ex9.AssemblyInfo.cs",
-              "ToolTip": "C:\\Users\\BOSS\\Desktop\\OOA-D\\Ex9\\obj\\Debug\\net8.0\\Ex9.AssemblyInfo.cs",
-              "RelativeToolTip": "obj\\Debug\\net8.0\\Ex9.AssemblyInfo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAALAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T06:13:29.664Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UnitTest1.cs",
-              "DocumentMoniker": "C:\\Users\\BOSS\\Desktop\\OOA-D\\Ex9\\TestProject1\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "TestProject1\\UnitTest1.cs",
-              "ToolTip": "C:\\Users\\BOSS\\Desktop\\OOA-D\\Ex9\\TestProject1\\UnitTest1.cs",
-              "RelativeToolTip": "TestProject1\\UnitTest1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T06:11:37.731Z",
               "EditorCaption": ""
             },
             {
@@ -94,65 +63,78 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\BOSS\\Desktop\\OOA-D\\TestProject2\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\TestProject2\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\BOSS\\Desktop\\OOA-D\\TestProject2\\UnitTest1.cs",
+              "RelativeToolTip": "..\\TestProject2\\UnitTest1.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAUwB4AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T08:36:16.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "NotNode.cs",
               "DocumentMoniker": "C:\\Users\\BOSS\\Desktop\\OOA-D\\Ex9\\NotNode.cs",
               "RelativeDocumentMoniker": "NotNode.cs",
               "ToolTip": "C:\\Users\\BOSS\\Desktop\\OOA-D\\Ex9\\NotNode.cs",
               "RelativeToolTip": "NotNode.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-06T23:17:49.6Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "OrNode.cs",
               "DocumentMoniker": "C:\\Users\\BOSS\\Desktop\\OOA-D\\Ex9\\OrNode.cs",
               "RelativeDocumentMoniker": "OrNode.cs",
               "ToolTip": "C:\\Users\\BOSS\\Desktop\\OOA-D\\Ex9\\OrNode.cs",
               "RelativeToolTip": "OrNode.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-06T23:17:28.177Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "AndNode.cs",
               "DocumentMoniker": "C:\\Users\\BOSS\\Desktop\\OOA-D\\Ex9\\AndNode.cs",
               "RelativeDocumentMoniker": "AndNode.cs",
               "ToolTip": "C:\\Users\\BOSS\\Desktop\\OOA-D\\Ex9\\AndNode.cs",
               "RelativeToolTip": "AndNode.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-06T23:16:57.108Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "ValueNode.cs",
               "DocumentMoniker": "C:\\Users\\BOSS\\Desktop\\OOA-D\\Ex9\\ValueNode.cs",
               "RelativeDocumentMoniker": "ValueNode.cs",
               "ToolTip": "C:\\Users\\BOSS\\Desktop\\OOA-D\\Ex9\\ValueNode.cs",
               "RelativeToolTip": "ValueNode.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-06T23:15:23.666Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "IExpression.cs",
               "DocumentMoniker": "C:\\Users\\BOSS\\Desktop\\OOA-D\\Ex9\\IExpression.cs",
               "RelativeDocumentMoniker": "IExpression.cs",
               "ToolTip": "C:\\Users\\BOSS\\Desktop\\OOA-D\\Ex9\\IExpression.cs",
               "RelativeToolTip": "IExpression.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-06T23:14:13.081Z",
               "EditorCaption": ""

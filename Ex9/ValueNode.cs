@@ -12,5 +12,9 @@
         {
             return _value;
         }
+        public void PrintTree(int indent = 0)
+        {
+            Console.WriteLine($"{new string(' ', indent)}ValueNode({_value})");
+        }
     }
 }

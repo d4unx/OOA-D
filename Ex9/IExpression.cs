@@ -4,5 +4,6 @@
     public interface IExpression
     {
         bool Evaluate();
+        void PrintTree(int indent = 0);
     }
 }
