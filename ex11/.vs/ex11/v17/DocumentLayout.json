@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Malenia\\source\\repos\\ex11\\",
+  "WorkspaceRootPath": "C:\\Users\\BOSS\\Desktop\\OOA-D\\ex11\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0C215062-5F9B-4A98-9264-1A3786782909}|ex11.csproj|c:\\users\\malenia\\source\\repos\\ex11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0C215062-5F9B-4A98-9264-1A3786782909}|ex11.csproj|c:\\users\\boss\\desktop\\ooa-d\\ex11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0C215062-5F9B-4A98-9264-1A3786782909}|ex11.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,20 +14,38 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Malenia\\source\\repos\\ex11\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\BOSS\\Desktop\\OOA-D\\ex11\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Malenia\\source\\repos\\ex11\\Program.cs",
+              "ToolTip": "C:\\Users\\BOSS\\Desktop\\OOA-D\\ex11\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAI0AAAAAAAAAAAAiwH0AAAA3AAAA",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAqwIoAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-14T06:12:58.792Z",
               "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 112,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             }
           ]
         }

@@ -5,3 +5,10 @@ C:\Users\Malenia\source\repos\ex11\obj\Debug\ex11.csproj.AssemblyReference.cache
 C:\Users\Malenia\source\repos\ex11\obj\Debug\ex11.csproj.CoreCompileInputs.cache
 C:\Users\Malenia\source\repos\ex11\obj\Debug\ex11.exe
 C:\Users\Malenia\source\repos\ex11\obj\Debug\ex11.pdb
+C:\Users\BOSS\Desktop\OOA-D\ex11\bin\Debug\ex11.exe.config
+C:\Users\BOSS\Desktop\OOA-D\ex11\bin\Debug\ex11.exe
+C:\Users\BOSS\Desktop\OOA-D\ex11\bin\Debug\ex11.pdb
+C:\Users\BOSS\Desktop\OOA-D\ex11\obj\Debug\ex11.csproj.AssemblyReference.cache
+C:\Users\BOSS\Desktop\OOA-D\ex11\obj\Debug\ex11.csproj.CoreCompileInputs.cache
+C:\Users\BOSS\Desktop\OOA-D\ex11\obj\Debug\ex11.exe
+C:\Users\BOSS\Desktop\OOA-D\ex11\obj\Debug\ex11.pdb
