@@ -14,9 +14,15 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("10---")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD:Ex-10-11/10---/obj/Debug/net8.0-windows/10---.AssemblyInfo.cs
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8ee0e3e4b6cb7d8a3dc2a698f5f3805f460b5434")]
 [assembly: System.Reflection.AssemblyProductAttribute("10---")]
 [assembly: System.Reflection.AssemblyTitleAttribute("10---")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4b21ce302c6452b4fdf26c1844fe68f4015ec554")]
+[assembly: System.Reflection.AssemblyProductAttribute("Ex-10")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Ex-10")]
+>>>>>>> 7d8fdc61b8e56aa854dcc21940d9abd5660a70fe:Ex-10-11/Ex-10/obj/Debug/net8.0-windows/Ex-10.AssemblyInfo.cs
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 [assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0")]
 [assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows7.0")]

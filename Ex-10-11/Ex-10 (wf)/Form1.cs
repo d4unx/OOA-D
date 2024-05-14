@@ -1,3 +1,5 @@
+using System.Data;
+
 namespace Ex_10__wf_
 {
     public partial class Form1 : Form
@@ -67,23 +69,17 @@ namespace Ex_10__wf_
         private void button1_Click(object sender, EventArgs e)
         {
             _subject.ChangeState("activate");
-            if (_subject._observers.Contains(_observer1)) label1.ForeColor = Color.Green;
-            else label1.ForeColor = Color.Red;
-            if (_subject._observers.Contains(_observer2)) label2.ForeColor = Color.Green;
-            else label2.ForeColor = Color.Red;
-            if (_subject._observers.Contains(_observer3)) label3.ForeColor = Color.Green;
-            else label3.ForeColor = Color.Red;
-            Update();
+            UpdateStat();
+            UpdateCol();
         }
         // Disactivate
         private void button2_Click(object sender, EventArgs e)
         {
             _subject.ChangeState("disactivate");
-            Update();
-
+            UpdateTime();
         }
         // обновляет данные в label'ах
-        private void Update()
+        private void UpdateTime()
         {
             foreach (var item in _subject._observers)
             {
@@ -91,19 +87,40 @@ namespace Ex_10__wf_
                 {
                     case "Ob1":
                         label4.Text = item.Time.ToString() + " ms";
-                        label1.Text = _subject._state;
                         break;
                     case "Ob2":
                         label5.Text = item.Time.ToString() + " ms";
-                        label2.Text = _subject._state;
                         break;
                     case "Ob3":
                         label6.Text = item.Time.ToString() + " ms";
+                        break;
+
+                }
+            }
+            UpdateStat();
+            UpdateCol();
+        }
+        public void UpdateStat()
+        {
+            foreach (var item in _subject._observers)
+            {
+                switch (item.Name)
+                {
+                    case "Ob1":
+                        label1.Text = _subject._state;
+                        break;
+                    case "Ob2":
+                        label2.Text = _subject._state;
+                        break;
+                    case "Ob3":
                         label3.Text = _subject._state;
                         break;
 
                 }
             }
+        }
+        public void UpdateCol()
+        {
             if (_subject._observers.Contains(_observer1)) label1.ForeColor = Color.Green;
             else label1.ForeColor = Color.Red;
             if (_subject._observers.Contains(_observer2)) label2.ForeColor = Color.Green;

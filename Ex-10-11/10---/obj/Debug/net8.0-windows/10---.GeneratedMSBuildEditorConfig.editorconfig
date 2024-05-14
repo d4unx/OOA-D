@@ -7,7 +7,12 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
+<<<<<<< HEAD:Ex-10-11/10---/obj/Debug/net8.0-windows/10---.GeneratedMSBuildEditorConfig.editorconfig
 build_property.RootNamespace = _10___
 build_property.ProjectDir = C:\Users\Malenia\Desktop\OOAID\OOA-D\Ex-10-11\10---\
+=======
+build_property.RootNamespace = Ex_10
+build_property.ProjectDir = C:\Users\BOSS\Desktop\OOA-D\Ex-10-11\Ex-10\
+>>>>>>> 7d8fdc61b8e56aa854dcc21940d9abd5660a70fe:Ex-10-11/Ex-10/obj/Debug/net8.0-windows/Ex-10.GeneratedMSBuildEditorConfig.editorconfig
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

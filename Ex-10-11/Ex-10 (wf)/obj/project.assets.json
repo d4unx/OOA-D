@@ -100,11 +100,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\Malenia\\Desktop\\OOAID\\OOA-D\\Ex-10-11\\Ex-10 (wf)\\Ex-10 (wf).csproj",
       "projectName": "Ex-10 (wf)",
       "projectPath": "C:\\Users\\Malenia\\Desktop\\OOAID\\OOA-D\\Ex-10-11\\Ex-10 (wf)\\Ex-10 (wf).csproj",
       "packagesPath": "C:\\Users\\Malenia\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Malenia\\Desktop\\OOAID\\OOA-D\\Ex-10-11\\Ex-10 (wf)\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\BOSS\\Desktop\\OOA-D\\Ex-10-11\\Ex-10 (wf)\\Ex-10 (wf).csproj",
+      "projectName": "Ex-10 (wf)",
+      "projectPath": "C:\\Users\\BOSS\\Desktop\\OOA-D\\Ex-10-11\\Ex-10 (wf)\\Ex-10 (wf).csproj",
+      "packagesPath": "C:\\Users\\BOSS\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\BOSS\\Desktop\\OOA-D\\Ex-10-11\\Ex-10 (wf)\\obj\\",
+>>>>>>> 7d8fdc61b8e56aa854dcc21940d9abd5660a70fe
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,5 +1,6 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "FFKu5oKy0Yd05oZTura42GivixYyfSpT6EERh0QvRD1JvnL5v3RKYBoZBetPgaOnIQKKceCUXI+zPuLF3zhFgg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Malenia\\Desktop\\OOAID\\OOA-D\\Ex-10-11\\Ex-10 (wf)\\Ex-10 (wf).csproj",
@@ -7,5 +8,11 @@
     "C:\\Users\\Malenia\\.nuget\\packages\\nunit\\4.1.0\\nunit.4.1.0.nupkg.sha512",
     "C:\\Users\\Malenia\\.nuget\\packages\\nunit3testadapter\\4.5.0\\nunit3testadapter.4.5.0.nupkg.sha512"
   ],
+=======
+  "dgSpecHash": "i2VkORbZXTNxdJKnXE5ZC0K8TE5cgPJDRfjWF7yMwTUaHAFZZ7xM+Ys+9WSvmzbLNZK1obDAYfD3xOnLvap/sA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BOSS\\Desktop\\OOA-D\\Ex-10-11\\Ex-10 (wf)\\Ex-10 (wf).csproj",
+  "expectedPackageFiles": [],
+>>>>>>> 7d8fdc61b8e56aa854dcc21940d9abd5660a70fe
   "logs": []
 }
