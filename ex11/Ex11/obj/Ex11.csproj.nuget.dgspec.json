@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\BOSS\\Desktop\\Ex11\\Ex11\\Ex11.csproj": {}
+    "C:\\Users\\BOSS\\Desktop\\OOA-D\\Ex11\\Ex11\\Ex11.csproj": {}
   },
   "projects": {
-    "C:\\Users\\BOSS\\Desktop\\Ex11\\Ex11\\Ex11.csproj": {
+    "C:\\Users\\BOSS\\Desktop\\OOA-D\\Ex11\\Ex11\\Ex11.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BOSS\\Desktop\\Ex11\\Ex11\\Ex11.csproj",
+        "projectUniqueName": "C:\\Users\\BOSS\\Desktop\\OOA-D\\Ex11\\Ex11\\Ex11.csproj",
         "projectName": "Ex11",
-        "projectPath": "C:\\Users\\BOSS\\Desktop\\Ex11\\Ex11\\Ex11.csproj",
+        "projectPath": "C:\\Users\\BOSS\\Desktop\\OOA-D\\Ex11\\Ex11\\Ex11.csproj",
         "packagesPath": "C:\\Users\\BOSS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BOSS\\Desktop\\Ex11\\Ex11\\obj\\",
+        "outputPath": "C:\\Users\\BOSS\\Desktop\\OOA-D\\Ex11\\Ex11\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

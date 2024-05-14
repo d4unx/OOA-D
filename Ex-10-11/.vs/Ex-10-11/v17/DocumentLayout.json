@@ -1,25 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\BOSS\\Desktop\\Ex-10-11\\",
+  "WorkspaceRootPath": "C:\\Users\\BOSS\\Desktop\\OOA-D\\Ex-10-11\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F219FC95-D725-46D0-873D-72E2B8C12559}|Ex-10 (wf)\\Ex-10 (wf).csproj|c:\\users\\boss\\desktop\\ex-10-11\\ex-10 (wf)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F219FC95-D725-46D0-873D-72E2B8C12559}|Ex-10 (wf)\\Ex-10 (wf).csproj|c:\\users\\boss\\desktop\\ooa-d\\ex-10-11\\ex-10 (wf)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F219FC95-D725-46D0-873D-72E2B8C12559}|Ex-10 (wf)\\Ex-10 (wf).csproj|solutionrelative:ex-10 (wf)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F219FC95-D725-46D0-873D-72E2B8C12559}|Ex-10 (wf)\\Ex-10 (wf).csproj|c:\\users\\boss\\desktop\\ex-10-11\\ex-10 (wf)\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F219FC95-D725-46D0-873D-72E2B8C12559}|Ex-10 (wf)\\Ex-10 (wf).csproj|C:\\Users\\BOSS\\Desktop\\OOA-D\\Ex-10-11\\ex-10 (wf)\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F219FC95-D725-46D0-873D-72E2B8C12559}|Ex-10 (wf)\\Ex-10 (wf).csproj|solutionrelative:ex-10 (wf)\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F219FC95-D725-46D0-873D-72E2B8C12559}|Ex-10 (wf)\\Ex-10 (wf).csproj|c:\\users\\boss\\desktop\\ex-10-11\\ex-10 (wf)\\observer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F219FC95-D725-46D0-873D-72E2B8C12559}|Ex-10 (wf)\\Ex-10 (wf).csproj|C:\\Users\\BOSS\\Desktop\\OOA-D\\Ex-10-11\\ex-10 (wf)\\observer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F219FC95-D725-46D0-873D-72E2B8C12559}|Ex-10 (wf)\\Ex-10 (wf).csproj|solutionrelative:ex-10 (wf)\\observer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F219FC95-D725-46D0-873D-72E2B8C12559}|Ex-10 (wf)\\Ex-10 (wf).csproj|c:\\users\\boss\\desktop\\ex-10-11\\ex-10 (wf)\\iobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F219FC95-D725-46D0-873D-72E2B8C12559}|Ex-10 (wf)\\Ex-10 (wf).csproj|C:\\Users\\BOSS\\Desktop\\OOA-D\\Ex-10-11\\ex-10 (wf)\\iobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F219FC95-D725-46D0-873D-72E2B8C12559}|Ex-10 (wf)\\Ex-10 (wf).csproj|solutionrelative:ex-10 (wf)\\iobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F219FC95-D725-46D0-873D-72E2B8C12559}|Ex-10 (wf)\\Ex-10 (wf).csproj|c:\\users\\boss\\desktop\\ex-10-11\\ex-10 (wf)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F219FC95-D725-46D0-873D-72E2B8C12559}|Ex-10 (wf)\\Ex-10 (wf).csproj|C:\\Users\\BOSS\\Desktop\\OOA-D\\Ex-10-11\\ex-10 (wf)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F219FC95-D725-46D0-873D-72E2B8C12559}|Ex-10 (wf)\\Ex-10 (wf).csproj|solutionrelative:ex-10 (wf)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -30,21 +30,8 @@
       "DocumentGroups": [
         {
           "DockedHeight": 315,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\BOSS\\Desktop\\Ex-10-11\\Ex-10 (wf)\\Form1.cs",
-              "RelativeDocumentMoniker": "Ex-10 (wf)\\Form1.cs",
-              "ToolTip": "C:\\Users\\BOSS\\Desktop\\Ex-10-11\\Ex-10 (wf)\\Form1.cs",
-              "RelativeToolTip": "Ex-10 (wf)\\Form1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T08:10:13.374Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
@@ -55,13 +42,26 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\BOSS\\Desktop\\OOA-D\\Ex-10-11\\Ex-10 (wf)\\Form1.cs",
+              "RelativeDocumentMoniker": "Ex-10 (wf)\\Form1.cs",
+              "ToolTip": "C:\\Users\\BOSS\\Desktop\\OOA-D\\Ex-10-11\\Ex-10 (wf)\\Form1.cs",
+              "RelativeToolTip": "Ex-10 (wf)\\Form1.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAkwIQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T08:10:13.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Subject.cs",
-              "DocumentMoniker": "C:\\Users\\BOSS\\Desktop\\Ex-10-11\\Ex-10 (wf)\\Subject.cs",
+              "DocumentMoniker": "C:\\Users\\BOSS\\Desktop\\OOA-D\\Ex-10-11\\Ex-10 (wf)\\Subject.cs",
               "RelativeDocumentMoniker": "Ex-10 (wf)\\Subject.cs",
-              "ToolTip": "C:\\Users\\BOSS\\Desktop\\Ex-10-11\\Ex-10 (wf)\\Subject.cs",
+              "ToolTip": "C:\\Users\\BOSS\\Desktop\\OOA-D\\Ex-10-11\\Ex-10 (wf)\\Subject.cs",
               "RelativeToolTip": "Ex-10 (wf)\\Subject.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAA9wAIAAAAKAAAA",
+              "ViewState": "AQIAABoAAAAAAAAAAAAIwCMAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-14T08:09:43.381Z",
               "EditorCaption": ""
@@ -70,11 +70,11 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Observer.cs",
-              "DocumentMoniker": "C:\\Users\\BOSS\\Desktop\\Ex-10-11\\Ex-10 (wf)\\Observer.cs",
+              "DocumentMoniker": "C:\\Users\\BOSS\\Desktop\\OOA-D\\Ex-10-11\\Ex-10 (wf)\\Observer.cs",
               "RelativeDocumentMoniker": "Ex-10 (wf)\\Observer.cs",
-              "ToolTip": "C:\\Users\\BOSS\\Desktop\\Ex-10-11\\Ex-10 (wf)\\Observer.cs",
+              "ToolTip": "C:\\Users\\BOSS\\Desktop\\OOA-D\\Ex-10-11\\Ex-10 (wf)\\Observer.cs",
               "RelativeToolTip": "Ex-10 (wf)\\Observer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-14T08:09:38.783Z",
               "EditorCaption": ""
@@ -83,11 +83,11 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "IObserver.cs",
-              "DocumentMoniker": "C:\\Users\\BOSS\\Desktop\\Ex-10-11\\Ex-10 (wf)\\IObserver.cs",
+              "DocumentMoniker": "C:\\Users\\BOSS\\Desktop\\OOA-D\\Ex-10-11\\Ex-10 (wf)\\IObserver.cs",
               "RelativeDocumentMoniker": "Ex-10 (wf)\\IObserver.cs",
-              "ToolTip": "C:\\Users\\BOSS\\Desktop\\Ex-10-11\\Ex-10 (wf)\\IObserver.cs",
+              "ToolTip": "C:\\Users\\BOSS\\Desktop\\OOA-D\\Ex-10-11\\Ex-10 (wf)\\IObserver.cs",
               "RelativeToolTip": "Ex-10 (wf)\\IObserver.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-14T08:09:17.264Z",
               "EditorCaption": ""
@@ -96,13 +96,12 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
-              "DocumentMoniker": "C:\\Users\\BOSS\\Desktop\\Ex-10-11\\Ex-10 (wf)\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\BOSS\\Desktop\\OOA-D\\Ex-10-11\\Ex-10 (wf)\\Form1.cs",
               "RelativeDocumentMoniker": "Ex-10 (wf)\\Form1.cs",
               "ToolTip": "C:\\Users\\BOSS\\Desktop\\Ex-10-11\\Ex-10 (wf)\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
-              "RelativeToolTip": "Ex-10 (wf)\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "..\\..\\Ex-10-11\\Ex-10 (wf)\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T08:09:15.363Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+              "WhenOpened": "2024-05-14T08:09:15.363Z"
             }
           ]
         },
