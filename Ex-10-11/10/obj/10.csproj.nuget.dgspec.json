@@ -1,0 +1,148 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Malenia\\Desktop\\OOAID\\OOA-D\\Ex-10-11\\10\\10.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Malenia\\Desktop\\OOAID\\OOA-D\\Ex-10-11\\10\\10.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Malenia\\Desktop\\OOAID\\OOA-D\\Ex-10-11\\10\\10.csproj",
+        "projectName": "10",
+        "projectPath": "C:\\Users\\Malenia\\Desktop\\OOAID\\OOA-D\\Ex-10-11\\10\\10.csproj",
+        "packagesPath": "C:\\Users\\Malenia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Malenia\\Desktop\\OOAID\\OOA-D\\Ex-10-11\\10\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Malenia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Malenia\\Desktop\\OOAID\\OOA-D\\Ex-10-11\\Ex-10 (wf)\\Ex-10 (wf).csproj": {
+                "projectPath": "C:\\Users\\Malenia\\Desktop\\OOAID\\OOA-D\\Ex-10-11\\Ex-10 (wf)\\Ex-10 (wf).csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Malenia\\Desktop\\OOAID\\OOA-D\\Ex-10-11\\Ex-10 (wf)\\Ex-10 (wf).csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Malenia\\Desktop\\OOAID\\OOA-D\\Ex-10-11\\Ex-10 (wf)\\Ex-10 (wf).csproj",
+        "projectName": "Ex-10 (wf)",
+        "projectPath": "C:\\Users\\Malenia\\Desktop\\OOAID\\OOA-D\\Ex-10-11\\Ex-10 (wf)\\Ex-10 (wf).csproj",
+        "packagesPath": "C:\\Users\\Malenia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Malenia\\Desktop\\OOAID\\OOA-D\\Ex-10-11\\Ex-10 (wf)\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Malenia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "NUnit": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

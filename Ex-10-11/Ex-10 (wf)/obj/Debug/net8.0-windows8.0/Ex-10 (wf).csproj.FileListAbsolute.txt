@@ -1,0 +1,27 @@
+C:\Users\Malenia\Desktop\OOAID\OOA-D\Ex-10-11\Ex-10 (wf)\bin\Debug\net8.0-windows8.0\NUnit3.TestAdapter.dll
+C:\Users\Malenia\Desktop\OOAID\OOA-D\Ex-10-11\Ex-10 (wf)\bin\Debug\net8.0-windows8.0\NUnit3.TestAdapter.pdb
+C:\Users\Malenia\Desktop\OOAID\OOA-D\Ex-10-11\Ex-10 (wf)\bin\Debug\net8.0-windows8.0\nunit.engine.dll
+C:\Users\Malenia\Desktop\OOAID\OOA-D\Ex-10-11\Ex-10 (wf)\bin\Debug\net8.0-windows8.0\nunit.engine.api.dll
+C:\Users\Malenia\Desktop\OOAID\OOA-D\Ex-10-11\Ex-10 (wf)\bin\Debug\net8.0-windows8.0\nunit.engine.core.dll
+C:\Users\Malenia\Desktop\OOAID\OOA-D\Ex-10-11\Ex-10 (wf)\bin\Debug\net8.0-windows8.0\testcentric.engine.metadata.dll
+C:\Users\Malenia\Desktop\OOAID\OOA-D\Ex-10-11\Ex-10 (wf)\bin\Debug\net8.0-windows8.0\Ex-10 (wf).exe
+C:\Users\Malenia\Desktop\OOAID\OOA-D\Ex-10-11\Ex-10 (wf)\bin\Debug\net8.0-windows8.0\Ex-10 (wf).deps.json
+C:\Users\Malenia\Desktop\OOAID\OOA-D\Ex-10-11\Ex-10 (wf)\bin\Debug\net8.0-windows8.0\Ex-10 (wf).runtimeconfig.json
+C:\Users\Malenia\Desktop\OOAID\OOA-D\Ex-10-11\Ex-10 (wf)\bin\Debug\net8.0-windows8.0\Ex-10 (wf).dll
+C:\Users\Malenia\Desktop\OOAID\OOA-D\Ex-10-11\Ex-10 (wf)\bin\Debug\net8.0-windows8.0\Ex-10 (wf).pdb
+C:\Users\Malenia\Desktop\OOAID\OOA-D\Ex-10-11\Ex-10 (wf)\bin\Debug\net8.0-windows8.0\nunit.framework.dll
+C:\Users\Malenia\Desktop\OOAID\OOA-D\Ex-10-11\Ex-10 (wf)\bin\Debug\net8.0-windows8.0\nunit.framework.legacy.dll
+C:\Users\Malenia\Desktop\OOAID\OOA-D\Ex-10-11\Ex-10 (wf)\obj\Debug\net8.0-windows8.0\Ex-10 (wf).csproj.AssemblyReference.cache
+C:\Users\Malenia\Desktop\OOAID\OOA-D\Ex-10-11\Ex-10 (wf)\obj\Debug\net8.0-windows8.0\Ex_10__wf_.Form1.resources
+C:\Users\Malenia\Desktop\OOAID\OOA-D\Ex-10-11\Ex-10 (wf)\obj\Debug\net8.0-windows8.0\Ex-10 (wf).csproj.GenerateResource.cache
+C:\Users\Malenia\Desktop\OOAID\OOA-D\Ex-10-11\Ex-10 (wf)\obj\Debug\net8.0-windows8.0\Ex-10 (wf).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Malenia\Desktop\OOAID\OOA-D\Ex-10-11\Ex-10 (wf)\obj\Debug\net8.0-windows8.0\Ex-10 (wf).AssemblyInfoInputs.cache
+C:\Users\Malenia\Desktop\OOAID\OOA-D\Ex-10-11\Ex-10 (wf)\obj\Debug\net8.0-windows8.0\Ex-10 (wf).AssemblyInfo.cs
+C:\Users\Malenia\Desktop\OOAID\OOA-D\Ex-10-11\Ex-10 (wf)\obj\Debug\net8.0-windows8.0\Ex-10 (wf).csproj.CoreCompileInputs.cache
+C:\Users\Malenia\Desktop\OOAID\OOA-D\Ex-10-11\Ex-10 (wf)\obj\Debug\net8.0-windows8.0\Ex-10 (wf).sourcelink.json
+C:\Users\Malenia\Desktop\OOAID\OOA-D\Ex-10-11\Ex-10 (wf)\obj\Debug\net8.0-windows8.0\Ex-10 (wf).csproj.Up2Date
+C:\Users\Malenia\Desktop\OOAID\OOA-D\Ex-10-11\Ex-10 (wf)\obj\Debug\net8.0-windows8.0\Ex-10 (wf).dll
+C:\Users\Malenia\Desktop\OOAID\OOA-D\Ex-10-11\Ex-10 (wf)\obj\Debug\net8.0-windows8.0\refint\Ex-10 (wf).dll
+C:\Users\Malenia\Desktop\OOAID\OOA-D\Ex-10-11\Ex-10 (wf)\obj\Debug\net8.0-windows8.0\Ex-10 (wf).pdb
+C:\Users\Malenia\Desktop\OOAID\OOA-D\Ex-10-11\Ex-10 (wf)\obj\Debug\net8.0-windows8.0\Ex-10 (wf).genruntimeconfig.cache
+C:\Users\Malenia\Desktop\OOAID\OOA-D\Ex-10-11\Ex-10 (wf)\obj\Debug\net8.0-windows8.0\ref\Ex-10 (wf).dll

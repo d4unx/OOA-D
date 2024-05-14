@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "ltsFPXz2Bp59LVVCWcktKElvrI/YfwcopTJlrrGq3DvTicuKev/Jue3ndG3El23fnBFy5KtYfvfm+nXBKSnoWA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Malenia\\Desktop\\OOAID\\OOA-D\\Ex-10-11\\10---\\10---.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Malenia\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
+    "C:\\Users\\Malenia\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",
+    "C:\\Users\\Malenia\\.nuget\\packages\\microsoft.net.test.sdk\\17.8.0\\microsoft.net.test.sdk.17.8.0.nupkg.sha512",
+    "C:\\Users\\Malenia\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.8.0\\microsoft.testplatform.objectmodel.17.8.0.nupkg.sha512",
+    "C:\\Users\\Malenia\\.nuget\\packages\\microsoft.testplatform.testhost\\17.8.0\\microsoft.testplatform.testhost.17.8.0.nupkg.sha512",
+    "C:\\Users\\Malenia\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Malenia\\.nuget\\packages\\nuget.frameworks\\6.5.0\\nuget.frameworks.6.5.0.nupkg.sha512",
+    "C:\\Users\\Malenia\\.nuget\\packages\\nunit\\4.1.0\\nunit.4.1.0.nupkg.sha512",
+    "C:\\Users\\Malenia\\.nuget\\packages\\nunit.analyzers\\3.9.0\\nunit.analyzers.3.9.0.nupkg.sha512",
+    "C:\\Users\\Malenia\\.nuget\\packages\\nunit3testadapter\\4.5.0\\nunit3testadapter.4.5.0.nupkg.sha512",
+    "C:\\Users\\Malenia\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

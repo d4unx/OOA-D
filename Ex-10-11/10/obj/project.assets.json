@@ -1,0 +1,107 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "Ex-10 (wf)/1.0.0": {
+        "type": "project",
+        "framework": "Unsupported,Version=v0.0",
+        "compile": {
+          "bin/placeholder/Ex-10 (wf).dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Ex-10 (wf).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ex-10 (wf)/1.0.0": {
+      "type": "project",
+      "path": "../Ex-10 (wf)/Ex-10 (wf).csproj",
+      "msbuildProject": "../Ex-10 (wf)/Ex-10 (wf).csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "Ex-10 (wf) >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Malenia\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Malenia\\Desktop\\OOAID\\OOA-D\\Ex-10-11\\10\\10.csproj",
+      "projectName": "10",
+      "projectPath": "C:\\Users\\Malenia\\Desktop\\OOAID\\OOA-D\\Ex-10-11\\10\\10.csproj",
+      "packagesPath": "C:\\Users\\Malenia\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Malenia\\Desktop\\OOAID\\OOA-D\\Ex-10-11\\10\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Malenia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\Malenia\\Desktop\\OOAID\\OOA-D\\Ex-10-11\\Ex-10 (wf)\\Ex-10 (wf).csproj": {
+              "projectPath": "C:\\Users\\Malenia\\Desktop\\OOAID\\OOA-D\\Ex-10-11\\Ex-10 (wf)\\Ex-10 (wf).csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Проект Ex-10 (wf) несовместим с net8.0 (.NETCoreApp,Version=v8.0). Проект Ex-10 (wf) поддерживает: net8.0-windows7.0 (.NETCoreApp,Version=v8.0)",
+      "libraryId": "Ex-10 (wf)",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

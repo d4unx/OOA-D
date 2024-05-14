@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "25M8xr8jdiBYNq3HDmG5lc7Udj9dnw0fBFFVEeHAg7iAGzQSqwLOY5o/NuY1Hr28KjGWpCYDWrdxtyQaikioSQ==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Malenia\\Desktop\\OOAID\\OOA-D\\Ex-10-11\\10\\10.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Проект Ex-10 (wf) несовместим с net8.0 (.NETCoreApp,Version=v8.0). Проект Ex-10 (wf) поддерживает: net8.0-windows7.0 (.NETCoreApp,Version=v8.0)",
+      "libraryId": "Ex-10 (wf)",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

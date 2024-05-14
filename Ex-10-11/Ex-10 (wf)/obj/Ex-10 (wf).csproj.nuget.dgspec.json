@@ -1,37 +1,36 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\BOSS\\Desktop\\Ex-10-11\\Ex-10 (wf)\\Ex-10 (wf).csproj": {}
+    "C:\\Users\\Malenia\\Desktop\\OOAID\\OOA-D\\Ex-10-11\\Ex-10 (wf)\\Ex-10 (wf).csproj": {}
   },
   "projects": {
-    "C:\\Users\\BOSS\\Desktop\\Ex-10-11\\Ex-10 (wf)\\Ex-10 (wf).csproj": {
+    "C:\\Users\\Malenia\\Desktop\\OOAID\\OOA-D\\Ex-10-11\\Ex-10 (wf)\\Ex-10 (wf).csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BOSS\\Desktop\\Ex-10-11\\Ex-10 (wf)\\Ex-10 (wf).csproj",
+        "projectUniqueName": "C:\\Users\\Malenia\\Desktop\\OOAID\\OOA-D\\Ex-10-11\\Ex-10 (wf)\\Ex-10 (wf).csproj",
         "projectName": "Ex-10 (wf)",
-        "projectPath": "C:\\Users\\BOSS\\Desktop\\Ex-10-11\\Ex-10 (wf)\\Ex-10 (wf).csproj",
-        "packagesPath": "C:\\Users\\BOSS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BOSS\\Desktop\\Ex-10-11\\Ex-10 (wf)\\obj\\",
+        "projectPath": "C:\\Users\\Malenia\\Desktop\\OOAID\\OOA-D\\Ex-10-11\\Ex-10 (wf)\\Ex-10 (wf).csproj",
+        "packagesPath": "C:\\Users\\Malenia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Malenia\\Desktop\\OOAID\\OOA-D\\Ex-10-11\\Ex-10 (wf)\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\BOSS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Malenia\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net8.0-windows"
+          "net8.0-windows8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0-windows7.0": {
-            "targetAlias": "net8.0-windows",
+          "net8.0-windows8.0": {
+            "targetAlias": "net8.0-windows8.0",
             "projectReferences": {}
           }
         },
@@ -47,8 +46,18 @@
         }
       },
       "frameworks": {
-        "net8.0-windows7.0": {
-          "targetAlias": "net8.0-windows",
+        "net8.0-windows8.0": {
+          "targetAlias": "net8.0-windows8.0",
+          "dependencies": {
+            "NUnit": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

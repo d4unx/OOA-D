@@ -2,10 +2,10 @@ namespace Ex_10__wf_
 {
     public partial class Form1 : Form
     {
-        private Subject _subject;
-        private Observer1 _observer1;
-        private Observer1 _observer2;
-        private Observer1 _observer3;
+        public Subject _subject;
+        public Observer1 _observer1;
+        public Observer1 _observer2;
+        public Observer1 _observer3;
         public Form1()
         {
             InitializeComponent();
